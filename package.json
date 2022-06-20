@@ -1,0 +1,26 @@
+{
+  "name": "promise-remotely",
+  "version": "0.1.0",
+  "description": "A simple and powerful Promise class that give to you capability to remote resolve/reject a promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovictoraurelio/promise-remotely.git"
+  },
+  "keywords": [
+    "promise",
+    "remotely",
+    "remote",
+    "resolve",
+    "reject"
+  ],
+  "author": "Victor Aurelio <ovictoraurelio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovictoraurelio/promise-remotely/issues"
+  },
+  "homepage": "https://github.com/ovictoraurelio/promise-remotely#readme"
+}
