@@ -3,7 +3,7 @@
 
 ## Create native ES6 promises that can be resolved or rejected externally.
 
-A simple and powerful Promise class that give to you capability to remote resolve/reject a promise.
+A simple and powerful Promise package that give to you capability to remote resolve/reject a promise.
 
 
   
